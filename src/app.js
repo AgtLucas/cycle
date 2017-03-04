@@ -1,4 +1,4 @@
-import {div} from '@cycle/dom'
+import { div } from '@cycle/dom'
 import xs from 'xstream'
 
 export function App (sources) {
